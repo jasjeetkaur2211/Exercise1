@@ -19,7 +19,7 @@ public class HelloWorld {
 		/*Initializing the newUser object with a Dummy userName */
 		HelloUser newUser = new HelloUser("Dummy");
 		
-		System.out.println("Hello ASE2016 - how are you? :)");
+		System.out.println("Hello ASE2016 - how are you now? :)");
 		
 		/* try .. catch block to handle IO Exception */
 		try {
